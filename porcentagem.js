@@ -8,5 +8,5 @@ var porcentagemDecimal = porcentagem / 100;
 
 //multiplica o valor pela porcentagem para encontrar o resultado 
 
-var resultado = valor + porcentagemDecimal;
+var resultado = valor * porcentagemDecimal;
 console.log("o resultado é : " + resultado);
