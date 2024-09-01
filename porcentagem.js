@@ -1,4 +1,4 @@
-var valor = parseFloat(prompt("digite o valor a converter: "));
+var primeiroNumero = parseInt(prompt("digite o valor a converter: "));
 var porcentagem = parseInt(prompt("digite a porcentagem que deseja encontrar: "));
 
 //var converter o numero inteiro para decimal
